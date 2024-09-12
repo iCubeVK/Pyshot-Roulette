@@ -2,10 +2,16 @@
 ###### Buckshot Roulette remade in Python!
 
 ## 🆕 What's New
+ 
+1. New items: Polarizer and Phone
+2. Rewritten Code (way too hard to read now!)
 
-Latest Release:  
-1. New items: polarizer and phone
+## 🔮 What will be added in the next update
 
+1. New items
+2. Way cleaner and more understandable code
+3. Gamemodes
+4. Save files!
 
 ## 💡 How to Play
 1. Go here https://github.com/iCubeVK/pyshot-roulette/releases
